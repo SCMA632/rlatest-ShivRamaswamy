@@ -1,4 +1,4 @@
-df  = read.csv('d:/csv-ml/IPL Ball-by-Ball 2008-2020.csv',header= TRUE )
+df  = read.csv('IPL Ball-by-Ball 2008-2020.csv',header= TRUE )
 names(df)
 class(df)
 
